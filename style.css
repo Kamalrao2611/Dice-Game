@@ -1,0 +1,54 @@
+body{
+    background-color: #213363;
+    margin: 0;
+    font-family: Apple Chancery, cursive;
+}
+
+h1{
+    font-size: 100px;
+    color: #8EAC50;
+    justify-content:center;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    height: 250px;
+}
+
+.dice-container{
+    display: flex;
+    justify-content: center;
+    gap : 100px;
+}
+
+p{  
+    margin: 0;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: #8EAC50;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.btn{
+    background-color: #17594A;
+    height: 60px;
+    width: 225px;
+    font-size : 40px;
+    border: none;
+    border-radius: 20px;
+}
+
+.btn:hover{
+    background-color: #D3D04F;
+}
+img{
+    width : 175px;
+}
